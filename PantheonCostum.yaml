@@ -1,0 +1,9 @@
+
+path: null
+aliases: [pantheoncostum]
+
+params:
+data_file: data/lcparams_full_long_zhel.txt
+# Speed in evaluations/second (after theory inputs calculated).
+speed: 100
+params:
